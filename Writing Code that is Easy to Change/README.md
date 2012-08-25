@@ -16,6 +16,9 @@ As always, I'd appreciate your feedback so that I can improve this talk in the f
 * [Clean Coders](http://cleancoders.com)
 
 ### Books
+
+The following books were instrumental to my learning. Some of the content in my talk was derived from the following books so you should definitely buy them.
+
 * [Clean Code: A Handbook of Agile Software Craftsmanship](http://amzn.to/RkLzCP)
 * [The Pragmatic Programmer: From Journeyman to Master](http://amzn.to/PjeJir)
 
