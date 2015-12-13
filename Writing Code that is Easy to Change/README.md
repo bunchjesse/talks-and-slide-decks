@@ -1,9 +1,6 @@
 # Writing Code that is Easy to Change
 *This talk was originally given at Coderfaire Nashville on August 25, 2012.*
 
-### Rate this talk / Feedback
-As always, I'd appreciate your feedback so that I can improve this talk in the future. [Please rate this talk here](http://joind.in/6727).
-
 ### Contact Me
 * Twitter: [@bunchjesse](http://twitter.com/bunchjesse)
 * Web: [getbunch.com](http://getbunch.com)
